@@ -1,4 +1,4 @@
-Created by ChatGPT:
+ReadMe Created by ChatGPT:
 
 This C++ program manages and sorts a list of counties based on their populations using a doubly linked list and merge sort. The main() function reads data from a CSV file (counties_ten.csv) or (counties_list.csv) containing information about counties, including their index, name, state, and population. Each county is represented as a County object. These county objects are dynamically allocated and appended to a custom List class, which stores them in a doubly linked list.
 
